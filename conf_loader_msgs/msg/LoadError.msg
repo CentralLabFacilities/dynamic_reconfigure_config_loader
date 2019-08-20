@@ -1,0 +1,5 @@
+uint8 NODE_NOT_FOUND=1
+uint8 FILE_NOT_FOUND=2
+uint8 NO_ERROR=0
+
+uint8 code

@@ -1,0 +1,4 @@
+uint8 MOVE_BASE_NORMAL=1
+uint8 MOVE_BASE_FOLLOWING=2
+
+uint8 code

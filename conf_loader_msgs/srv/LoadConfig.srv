@@ -1,0 +1,4 @@
+ConfigEnum config
+---
+bool success
+LoadError error
